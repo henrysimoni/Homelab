@@ -1,3 +1,5 @@
+
+
 \# IT Infrastructure Homelab
 
 
@@ -59,4 +61,6 @@ A hands-on homelab using VMware Workstation to develop practical skills in Windo
 \- \[Networking](Networking/)
 
 \- \[Progress Log](progress-log.md)
+
+&#x20; 
 
