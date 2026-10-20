@@ -21,12 +21,6 @@
 - Successfully joined CLIENT01 to the `ad.lab` domain.
 - Verified CLIENT01 appears in Active Directory Users and Computers (ADUC).
 
-### GitHub Documentation
-- Created and organized the Homelab GitHub repository.
-- Documented Active Directory, DNS, and networking configurations.
-- Added screenshots and troubleshooting notes.
-- Created a README and progress log.
-
 ## Next Steps
 - [ ] Create organizational units (OUs), users, and security groups.
 - [ ] Configure and test Group Policy Objects (GPOs).
