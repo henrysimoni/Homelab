@@ -22,7 +22,7 @@ A hands-on homelab using VMware Workstation to develop practical skills in Windo
 - [x] Deploy Windows Server and configure Active Directory
 - [x] Configure and test DNS
 - [x] Troubleshoot VMware NAT networking
-- [ ] Join Windows 11 client to domain
+- [X] Join Windows 11 client to domain
 - [ ] Configure users, groups, OUs, and Group Policy
 - [ ] Configure DHCP and file shares
 - [ ] Implement PowerShell automation
