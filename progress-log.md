@@ -1,8 +1,6 @@
 
 # Homelab Progress Log
 
-## October 2026 — Windows Server & Active Directory
-
 ### Virtualization & Networking
 - Deployed Windows Server (DC01) and Windows 11 Pro (CLIENT01) using VMware Workstation Pro.
 - Configured VMnet8 NAT networking (`192.168.1.0/24`).
